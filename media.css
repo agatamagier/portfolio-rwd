@@ -1,0 +1,600 @@
+@media only screen and (min-width: 200px) and (max-width: 479px){ 
+
+#menu{
+	height: 100%;
+	width:100%;
+	font-size: 10px;
+	
+
+ }
+ #menu ul{
+ 	text-align: center;
+ 	font-size: 1rem;
+ 	padding: 0;
+ }
+ #menu .fa {
+ 	font-size: 2em;
+ }
+ #bootstrap-overrides a span{
+ 	width: 25px;
+ 	height: 25px;
+ }
+ .toggleBtn span{
+ 	width: 22px;
+  height: 4px;
+  
+ }	
+ .toggleBtn{
+ 	top: 10px;
+  right: 5px;
+ }
+ a.backtop{
+ 	font-size: 15px;
+ 	width: 30px;
+ 	height: 30px;
+ 	bottom: 5px;
+ 	right:5px;
+ }
+ #home{
+ 	background-size: cover;
+ 	width: 100%;
+
+ }
+ #home .container{
+ 	width: 100%;
+ 	padding-left: 0;
+ 	padding-right: 100px;
+
+ }
+ #home hr{
+ 	width: 75%;
+ 	margin-left: 12.5%;
+ 	margin-right: 12.5%;
+ 	
+ }
+ #home .row{
+ 	width: 100%;
+
+ }
+ #home .col-md-8{
+ 	width: 75%;
+
+
+ }
+ #home h1{
+ 	width: 100%;
+ 	font-size: 4em;
+ 	letter-spacing: 1px;
+ 	padding-left: 40%;
+ 	padding-right: 15%;
+
+ 	}
+ 	#home .rotate{
+ 		width: 100%;
+ 		margin: 0;
+ 		padding: 0;
+ 		font-size: 2em;
+ 		margin-left: 12.5%;
+ 	margin-right: 12.5%;
+ 	}
+ 	#about{
+ 		background-size: cover;
+ 		width: 100%;
+ 	}
+ 	#about h1{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 		letter-spacing: 1rem;
+ 	}
+ 	#about p{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 		padding-left: 12.5%;
+ 	    padding-right: 12.5%;
+
+ 	}
+ 	#experience{
+ 		background-size: cover;
+ 		width: 100%;
+ 		 height: auto !important;
+ 	}
+ 	#experience h1{
+ 		width: 100%;
+ 		font-size: 1.75rem;
+ 	}
+ 	.bounceImage:hover{
+ 		margin-top: 25px;
+ 	}
+ 	#experience h4,p{
+ 		opacity: 1;
+ 	}
+ 	#portfolio{
+ 		background-size: cover;
+ 		width: 100%;
+ 		 height: auto !important;
+ 	}
+ 	#portfolio h1{
+ 		width: 100%;
+ 		font-size: 1.75rem;
+ 	}
+ 	#portfolio .row{
+ 		margin-bottom: 100px;
+ 		
+ 	}
+ 	#me{
+ 		background-size: cover;
+ 		width: 100%;
+ 		 height: auto !important;
+ 	}
+ 	#me h1{
+ 		width: 100%;
+ 		font-size: 1.5rem;
+ 		letter-spacing: 1em;
+ 	}
+ 	#images{
+ 		width: 100%;
+ 		height: auto !important;
+ 		padding: 0;
+ 		margin: 0;
+ 	}
+ 	#me .row{
+ 		margin-bottom: 100px;
+ 	}
+ 	#me hr{
+ 		margin-bottom: 10px;
+ 	}
+ 	#me .container{
+ 		margin-right: 0;
+ 		margin-left: 0;
+ 		padding-right:0;
+   padding-left: 0;
+ 	}
+ 	#contact{
+ 		background-size: cover;
+ 		width: 100%;
+ 		
+ 	}
+ 	#contact h1{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 		letter-spacing: 1em;
+ 	}
+ 	#contact form{
+ 		width: 100%;
+ 		height: auto !important;
+ 		padding-left: 12.5%;
+ 	    padding-right: 12.5%;
+ 	}
+ 	#contact li{
+ 		font-size: 3rem;
+ 	}
+ 	#contact address{
+ 		padding-left: 15%;
+ 	}
+ 	#bottom h3{
+ 		font-size: 1rem;
+ 		line-height: 1;
+ 		position: relative;
+ 		margin: 0 auto!important;
+ 		bottom: 0px;
+
+ 	}
+ 	#bottom{
+ 		width:100%;
+
+ 	}
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px){ 
+	#menu{
+
+	width:100%;
+	font-size: 1rem;
+ }
+ #home{
+ 	width: 100%;
+background-size: cover;
+ }
+ #home .container{
+ 	width: 100%;
+ 	height: auto !important;
+ }
+ #home hr{
+ 	width: 75%;
+ 	margin-left: 12.5%;
+ 	margin-right: 12.5%;
+ 	
+ }
+ #home .row{
+ 	width: 100%;
+
+ }
+ #home .col-md-8{
+ 	width: 75%;
+
+
+ }
+ #home h1{
+ 	width: 100%;
+ 	font-size: 4em;
+ 	letter-spacing: 1px;
+ 	padding-left: 40%;
+ 	padding-right: 15%;
+
+ 	}
+ 	#home .rotate{
+ 		width: 100%;
+/* 		margin: 0;
+ 		padding: 0;*/
+ 		font-size: 2em;
+ 	/*	margin-left: 12.5%;
+ 	margin-right: 12.5%;*/
+ 	}
+ 	#about{
+ 		width: 100%;
+ 		background-size: cover;
+ 	}
+ 	#about h1{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 	}
+ 	#about p{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 		padding-left: 12.5%;
+ 	    padding-right: 12.5%;
+
+ 	}
+ 	#experience{
+ 		width: 100%;
+ 		 height: auto !important;
+ 		 background-size: cover;
+ 	}
+ 	#experience h1{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 	}
+ 	.bounceImage:hover{
+ 		margin-top: 25px;
+ 	}
+ 	#experience h4,p{
+ 		opacity: 1;
+ 	}
+
+ 	#portfolio{
+ 		width: 100%;
+ 		 height: auto !important;
+ 		 background-size: cover;
+ 	}
+ 	#portfolio h1{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 	}
+ 	#portfolio .row{
+ 		margin-bottom: 100px;
+ 		
+ 	}
+ 	#portfolio .project{
+ 		margin-bottom: 1%;
+ 	}
+ 	#portfolio .portfolio-image{
+ 		width: 100%;
+ 		height: auto;
+ 	}
+
+ 	#me{
+ 		background-size: cover;
+ 		width: 100%;
+ 		 height: auto !important;
+ 	}
+ 	#me h1{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 		letter-spacing: 1em;
+ 	}
+ 	#images{
+ 		width: 100%;
+ 		height: auto !important;
+ 		padding: 0;
+ 		margin: 0;
+ 	}
+ 	#me .row{
+ 		margin-bottom: 100px;
+ 	}
+ 	#me hr{
+ 		margin-bottom: 10px;
+ 	}
+ 	#me .container{
+ 		margin-right: 0;
+ 		margin-left: 0;
+ 		padding-right:0;
+   padding-left: 0;
+ 	}
+ 	#contact{
+ 		width: 100%;
+ 		background-size: cover;
+ 	}
+ 	#contact h1{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 		letter-spacing: 1em;
+ 	}
+ 	#contact form{
+ 		width: 100%;
+ 		height: auto !important;
+ 		padding-left: 12.5%;
+ 	    padding-right: 12.5%;
+ 	}
+ }
+
+@media only screen and (min-width: 768px) and (max-width: 993px){ 
+	#menu{
+	width:50%;
+	font-size: 1rem;
+ }
+ #home{
+ 	width: 100%;
+ 	background-size: cover;
+ }
+ #home .container{
+ 	width: 100%;
+ 	height: auto !important;
+ }
+ #home hr{
+ 	width: 75%;
+ 	margin-left: 12.5%;
+ 	margin-right: 12.5%;
+ 	
+ }
+ #home .row{
+ 	width: 100%;
+
+ }
+ #home .col-md-8{
+ 	width: 75%;
+
+
+ }
+ #home h1{
+ 	width: 100%;
+ 	font-size: 120px;
+ 	letter-spacing: 1px;
+ 	padding-left: 40%;
+ 	padding-right: 15%;
+
+ 	}
+ 	#home .rotate{
+ 		width: 100%;
+/* 		margin: 0;
+ 		padding: 0;*/
+ 		font-size: 3em;
+ 	/*	margin-left: 12.5%;
+ 	margin-right: 12.5%;*/
+ 	}
+ 	#about{
+ 		width: 100%;
+ 		background-size: cover;
+ 	}
+ 	#about h1{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 	}
+ 	#about p{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 		padding-left: 12.5%;
+ 	    padding-right: 12.5%;
+
+ 	}
+ 	#experience{
+ 		background-size: cover;
+ 		width: 100%;
+ 		 height: auto !important;
+ 	}
+ 	#experience h1{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 	}
+ 	#experience .smaller{
+ 		margin-bottom: 10px;
+ 		margin-top: 0;
+ 		font-size: 13px;
+ 	}
+ 	.bounceImage:hover{
+ 		margin-top: 25px;
+ 	}
+ 	#experience h4,p{
+ 		opacity: 1;
+ 	}
+
+ 	#portfolio{
+ 		background-size: cover;
+ 		width: 100%;
+ 		 height: auto !important;
+ 	}
+ 	#portfolio h1{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 	}
+ 	#portfolio .row{
+ 		margin-bottom: 100px;
+ 		
+ 	}
+ 	#portfolio .project{
+ 		margin-bottom: 1%;
+ 	}
+ 	#portfolio .portfolio-image{
+ 		width: 100%;
+ 		height: auto;
+ 	}
+
+ 	#me{
+ 		background-size: cover;
+ 		width: 100%;
+ 		 height: auto !important;
+ 	}
+ 	#me h1{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 		letter-spacing: 1em;
+ 	}
+ 	#images{
+ 		width: 100%;
+ 		height: auto !important;
+ 		padding: 0;
+ 		margin: 0;
+ 	}
+ 	#me .row{
+ 		margin-bottom: 100px;
+ 	}
+ 	#me hr{
+ 		margin-bottom: 10px;
+ 	}
+ 	#me .container{
+ 		margin-right: auto;
+ 		margin-left: auto;
+ 		padding-right:0;
+   padding-left: 0;
+ 	}
+ 	#contact{
+ 		width: 100%;
+ 		background-size: cover;
+ 	}
+ 	#contact h1{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 		letter-spacing: 1em;
+ 	}
+ 	#contact form{
+ 		width: 100%;
+ 		height: auto !important;
+ 		padding-left: 12.5%;
+ 	    padding-right: 12.5%;
+ 	}
+ 	 }
+
+@media only screen and (min-width: 992px) and (max-width: 1999px){
+	#menu{
+	width:20%;
+	font-size: 1rem;
+
+ }
+/* #home{
+ 	width: 100%;
+
+ }
+ #home .container{
+ 	width: 100%;
+ 	height: auto !important;
+ }
+ #home hr{
+ 	width: 75%;
+ 	margin-left: 12.5%;
+ 	margin-right: 12.5%;
+ 	
+ }
+ #home .row{
+ 	width: 100%;
+
+ }*/
+ /*#home .col-md-8{
+ 	width: 75%;
+
+
+ }
+ #home h1{
+ 	width: 100%;
+ 	font-size: 120px;
+ 	letter-spacing: 1px;
+ 	padding-left: 40%;
+ 	padding-right: 15%;
+
+ 	}
+ 	#home .rotate{
+ 		width: 100%;
+ 		
+ 	}
+ 	*/
+ 	/*#experience{
+ 		width: 100%;
+ 		 height: auto !important;
+ 	}
+ 	#experience h1{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 	}
+ 	#experience .smaller{
+ 		margin-bottom: 10px;
+ 		margin-top: 0;
+ 		font-size: 13px;
+ 	}
+ 	.bounceImage:hover{
+ 		margin-top: 25px;
+ 	}
+ 	#experience h4,p{
+ 		opacity: 1;
+ 	}*/
+
+/* 	#portfolio{
+ 		width: 100%;
+ 		 height: auto !important;
+ 	}
+ 	#portfolio h1{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 	}
+ 	#portfolio .row{
+ 		margin-bottom: 100px;
+ 		
+ 	}
+ 	#portfolio .project{
+ 		margin-bottom: 1%;
+ 	}
+ 	#portfolio .portfolio-image{
+ 		width: 100%;
+ 		height: auto;
+ 	}*/
+
+ 	/*#me{
+ 		width: 100%;
+ 		 height: auto !important;
+ 	}
+ 	#me h1{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 		letter-spacing: 1em;
+ 	}
+ 	#images{
+ 		width: 100%;
+ 		height: auto !important;
+ 		padding: 0;
+ 		margin: 0;
+ 	}
+ 	#me .row{
+ 		margin-bottom: 100px;
+ 	}
+ 	#me hr{
+ 		margin-bottom: 10px;
+ 	}
+ 	#me .container{
+ 		margin-right: auto;
+ 		margin-left: auto;
+ 		padding-right:0;
+   padding-left: 0;
+ 	}*/
+ 	/*#contact{
+ 		width: 100%;
+ 		
+ 	}
+ 	#contact h1{
+ 		width: 100%;
+ 		font-size: 2rem;
+ 		letter-spacing: 1em;
+ 	}
+ 	#contact form{
+ 		width: 100%;
+ 		height: auto !important;
+ 		padding-left: 12.5%;
+ 	    padding-right: 12.5%;
+ 	} }*/
